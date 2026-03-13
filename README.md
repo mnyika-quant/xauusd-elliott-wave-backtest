@@ -1,8 +1,8 @@
 # XAUUSD Elliott Wave Backtest — Preferred Count
 ### Leading Diagonal (Wave 1 Minor) + ABC Zigzag Short (Wave 2 Minor)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mnyika-quant/XAUUSD_Elliott_Wave_Backtest.ipynb
-/blob/main/xauusd_elliott_wave_backtest.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mnyika-quant/xauusd-elliott-wave-backtest/blob/main/XAUUSD_Elliott_Wave_Backtest_Preferred_Count.ipynb)
+
 
 **By Munyaradzi Nyika | Wave & Code**
 
