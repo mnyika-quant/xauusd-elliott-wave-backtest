@@ -21,7 +21,10 @@ Most analysts use Elliott Wave as a subjective art. This project uses it as a
 structured rules-based framework — where a wave count becomes a testable hypothesis
 and every trade idea is validated by code before capital is committed.
 
-The trade is **live and in progress** as of 11 March 2026.
+The trade **closed successfully on 16 March 2026** with a 
+**32.37% return in 5 days** on a $100,000 simulated account. 
+Full analysis documented on Substack.
+
 
 ---
 
@@ -168,20 +171,23 @@ gold = raw.resample('4h').agg({
 
 ---
 
-## Performance Metrics (Trade in Progress)
+## Performance Metrics — TRADE CLOSED ✅
 
 | Metric | Value |
 |--------|-------|
 | Entry Date | 11 March 2026 |
 | Entry Price | 5,140.00 |
-| Status | **Live — In Progress** |
-| Stop Loss | 5,248.78 |
-| Target | 4,815.40 |
+| Exit Date | 16 March 2026 |
+| Exit Price | 4,978.13 |
+| Status | **CLOSED — TARGET ACHIEVED** |
+| Points Captured | 161.87 |
+| Trade Duration | 5 Days |
+| Profit Locked | $32,374 |
+| Return on $100,000 | **32.37%** |
 | Max Drawdown | -3.69% |
-| Win Rate (active bars) | 57.14% |
-| Risk to Reward | 1 : 2.98 |
+| Risk to Reward Achieved | 1 : 1.49 |
+| Version | 2.0 — Partial exit at Wave C = 0.618 Wave A |
 
-*Full performance metrics will be updated when the trade closes.*
 
 ---
 
